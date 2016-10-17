@@ -10,9 +10,9 @@
         
         Where would you like to say hello?
         
-        <a href="mypage.php?planet=earth"> Earth</a>
-        <a href="mypage.php?planet=mars"> Mars</a>
-        <a href="mypage.php?planet=uranus"> Uranus</a>
+        <a href="helloPrinter.php?planet=earth"> Earth</a>
+        <a href="helloPrinter.php?planet=mars"> Mars</a>
+        <a href="helloPrinter.php?planet=uranus"> Uranus</a>
 
 
 
