@@ -13,8 +13,8 @@
 
         echo "Where would you like to say hello?";
 
-        $location = "mypage.php?planet=Earth";
-        header($location);
+        $planet = $_GET["planet"];
+        echo "hello{$planet}"
         
         ?>
 
