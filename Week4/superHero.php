@@ -12,8 +12,8 @@
      * Time: 14:26
      */
     $forename = $_POST["forename"];
-    $surename = $_POST["surname"];
-    echo $forename . $surename;
+    $surname = $_POST["surname"];
+    echo $forename . $surname;
 
 
     ?>
